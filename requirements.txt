@@ -1,0 +1,21 @@
+#
+# Optional
+#
+cython
+ipython
+
+#
+# e-Ink
+# (numpy is not strictly needed but waveshare lib has an import)
+#
+numpy
+RPi.GPIO
+spidev
+Pillow
+
+#
+# Calendar
+#
+#google-api-python-client
+#google-auth-httplib2
+#google-auth-oauthlib

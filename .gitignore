@@ -1,0 +1,10 @@
+*~
+\#*#
+*.pyc
+*.pyo
+__pycache__/
+extra/
+venv/
+lib/info_epd_deps.egg-info
+dist/
+build/
